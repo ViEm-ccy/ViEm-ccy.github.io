@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hangzhou, China"
-title                    : "Chenye Cui"
+locale                   : "China"
+title                    : "Chenye Cui's Homepage"
 title_separator          : "-"
-name                     : &name "Chenye Cui"
+name                     : &name "Chenye Cui's Homepage"
 description              : &description ""
 url                      : https://viem-ccy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
