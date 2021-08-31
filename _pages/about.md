@@ -21,5 +21,5 @@ Biography
 Publications
 ======
 
-["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"](https://arxiv.org/abs/2106.09317) (Interspeech 2021)
+["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"](https://www.isca-speech.org/archive/interspeech_2021/cui21c_interspeech.html) (Interspeech 2021)
 
