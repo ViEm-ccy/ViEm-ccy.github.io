@@ -21,5 +21,6 @@ Biography
 Publications
 ======
 
-["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"](https://www.isca-speech.org/archive/interspeech_2021/cui21c_interspeech.html) (Interspeech 2021)
+["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model"](https://www.isca-speech.org/archive/interspeech_2021/cui21c_interspeech.html) **Chenye Cui**, Yi Ren, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao (Interspeech 2021)
+
 
