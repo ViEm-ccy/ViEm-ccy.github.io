@@ -11,7 +11,7 @@ redirect_from:
 个人简介
 ======
 - 本科毕业于北京交通大学软件学院（软件工程专业）,浙江大学软件学院硕士研究生一年级（人工智能方向）在读，导师：赵洲副教授
-- 目前的主要研究工作是声码器，兴趣方向是语音及歌声合成、生成模型和迁移学习
+- 目前的主要研究工作是音频生成任务，兴趣方向是语音及歌声合成、生成模型和迁移学习
 
 Biography
 ======
@@ -22,5 +22,4 @@ Publications
 ======
 
 ["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model"](https://www.isca-speech.org/archive/interspeech_2021/cui21c_interspeech.html) **Chenye Cui**, Yi Ren, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao (Interspeech 2021)
-
-
+["Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus"](https://dl.acm.org/doi/10.1145/3474085.3475437) Rongjie Huang, Feiyang Chen, Yi Ren, Jinglin Liu,**Chenye Cui**, Zhou Zhao
