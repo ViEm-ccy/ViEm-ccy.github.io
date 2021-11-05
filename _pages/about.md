@@ -22,4 +22,4 @@ Publications
 ======
 
 ["EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model"](https://www.isca-speech.org/archive/interspeech_2021/cui21c_interspeech.html) **Chenye Cui**, Yi Ren, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao (Interspeech 2021)
-["Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus"](https://dl.acm.org/doi/10.1145/3474085.3475437) Rongjie Huang, Feiyang Chen, Yi Ren, Jinglin Liu,**Chenye Cui**, Zhou Zhao
+["Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus"](https://dl.acm.org/doi/10.1145/3474085.3475437) Rongjie Huang, Feiyang Chen, Yi Ren, Jinglin Liu,**Chenye Cui**, Zhou Zhao (MM 2021)
