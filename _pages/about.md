@@ -10,13 +10,13 @@ redirect_from:
 
 个人简介
 ======
-- 本科毕业于北京交通大学软件学院（软件工程专业）,浙江大学软件学院硕士研究生一年级（人工智能方向）在读，导师：赵洲副教授
-- 目前的主要研究工作是音频生成任务，兴趣方向是语音及歌声合成、生成模型和迁移学习
+- 本科毕业于北京交通大学软件学院（软件工程专业）,浙江大学软件学院硕士研究生二年级（人工智能方向）在读，导师：赵洲副教授
+- 目前的主要研究工作是音视频生成任务，兴趣方向是语音及歌声合成、声音转换、生成模型和迁移学习
 
 Biography
 ======
-- Graduated from the School of Software Engineering, Beijing Jiaotong University (software engineering major). The first-year master in the School of Software Technology, Zhejiang University (artificial intelligence),advised by Zhou Zhao.
-- The current main research work is vocoder. My research interest includes speech and sing synthesis, generative model and transfer learning. 
+- Graduated from the School of Software Engineering, Beijing Jiaotong University (software engineering major). The second-year master in the School of Software Technology, Zhejiang University (artificial intelligence),advised by Zhou Zhao.
+- The current main research work is audio-visiual generation tasks. My research interest includes speech and sing synthesis, voice conversion, generative model and transfer learning. 
 
 Publications
 ======
